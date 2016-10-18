@@ -4,3 +4,4 @@ v1
 added more support in legacy thing
 oh one more]
 seems to be completely independent
+bumped version to v1.1.1
