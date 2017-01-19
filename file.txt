@@ -1,7 +1,12 @@
 I am what I look like initially on develop
-Second change on develop
+econd change on develop
 v1
-more changes in dev
-even more changes in dev
-a bug fix change
-another bug fix
+added more support in legacy thing
+oh one more]
+seems to be completely independent
+bumped version to v1.1.1
+actual fix for chagne
+and now v1.1.1.1
+one mroe
+anotehr feature 4 v1.1.1.1c
+a 00 chang
