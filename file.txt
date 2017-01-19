@@ -9,7 +9,7 @@ actual fix for chagne
 and now v1.1.1.1
 one mroe
 anotehr feature 4 v1.1.1.1c
-a 00 chang
+ 00 chang
 change 1 for 01
 change 2 for 01
 change 3 for 01, after release/1.1.1.1 has been merged into dev/master
@@ -21,3 +21,5 @@ change 1 on 03
 change 2 on 03
 change 1 on 04
 change 2 on 04
+change 1 on 05
+change 2 on 05
