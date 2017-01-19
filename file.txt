@@ -13,3 +13,5 @@ a 00 chang
 change 1 for 01
 change 2 for 01
 change 3 for 01, after release/1.1.1.1 has been merged into dev/master
+change 1 on release/1.1.1.2
+change 2 on release/1.1.1.2
