@@ -8,3 +8,4 @@ bumped version to v1.1.1
 actual fix for chagne
 change from s1
 change 2 from s1
+change 1 in release/1.1.2
